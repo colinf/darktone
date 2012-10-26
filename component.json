@@ -1,0 +1,12 @@
+{
+  "name": "darktone",
+  "repo": "colinf/darktone",
+  "description": "Darktone theme bundle",
+  "version": "0.0.1",
+  "keywords": ["darktone", "theme", "bundle"],
+  "dependencies": {
+    "component/darktone-popover": "*",
+    "component/darktone-calendar": "*"
+  },
+  "development": {}
+}
