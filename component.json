@@ -5,8 +5,8 @@
   "version": "0.0.1",
   "keywords": ["darktone", "theme", "bundle"],
   "dependencies": {
-    "component/darktone-popover": "*",
-    "component/darktone-calendar": "*"
+    "colinf/darktone-popover": "*",
+    "colinf/darktone-calendar": "*"
   },
   "development": {}
 }
