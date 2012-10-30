@@ -3,10 +3,15 @@
   "repo": "colinf/darktone",
   "description": "Darktone theme bundle",
   "version": "0.0.1",
-  "keywords": ["darktone", "theme", "bundle"],
+  "keywords": [
+    "darktone",
+    "theme",
+    "bundle"
+  ],
   "dependencies": {
     "colinf/darktone-popover": "*",
     "colinf/darktone-calendar": "*"
   },
-  "development": {}
+  "development": {},
+  "license": "MIT"
 }
